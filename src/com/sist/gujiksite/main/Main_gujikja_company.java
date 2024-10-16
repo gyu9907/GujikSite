@@ -21,6 +21,8 @@ public class Main_gujikja_company {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Github Desktop 테스트");
+		
 		List<Gujikja_imple> gu_list = new ArrayList<>();
 		List<Company_imple> cp_list = new ArrayList<>();
 		List<Recruit_imple> rc_list = new ArrayList<>();
