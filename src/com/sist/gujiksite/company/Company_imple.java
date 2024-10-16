@@ -1,4 +1,4 @@
-package com.sist.gujikja.company;
+package com.sist.gujiksite.company;
 
 import java.text.DecimalFormat;
 import java.util.regex.Matcher;
