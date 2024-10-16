@@ -22,6 +22,8 @@ public class Ctrl_gujikja_imple implements Ctrl_gujikja {
 	public void register(Scanner sc, List<Gujikja_imple> gu_list, Map<String, Gujikja_imple> gu_map) {
 		Gujikja_imple gu = new Gujikja_imple();
 		
+		System.out.println("dd");
+		
 		// 아이디는 필수 입력사항이면서 아이디 조건에 맞을때 까지 반복해야 한다.
 		String id = null;
 		outer:
