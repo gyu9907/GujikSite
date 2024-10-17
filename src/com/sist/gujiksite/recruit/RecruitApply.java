@@ -33,6 +33,7 @@ public class RecruitApply {
 	    else {
 	        System.out.println("[경고] 채용에 응모하려면 반드시 채용정보를 입력하세요!!\n"); 
 	    }
+		System.out.println("");
 	}
 
 	
