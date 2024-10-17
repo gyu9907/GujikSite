@@ -29,6 +29,8 @@ public abstract class CommonMember implements Common {
 	// 캡슐화(EnCapsulation == 은닉화) 되어진 field 를 메소드를 통해 접근하도록 만들기 //
 	// == getter, setter 하기 == //
 	public String getId() {
+		
+		System.out.println("rntrnt");
 		return id;
 	}
 	
